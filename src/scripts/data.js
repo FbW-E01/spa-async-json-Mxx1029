@@ -68,3 +68,9 @@ const recipes = {
 };
 
 export const recipesJSON = JSON.stringify(recipes);
+
+// Joels solution for the export
+
+// const dataAsString = JSON.stringify(recipes);
+
+// export { dataAsString };
